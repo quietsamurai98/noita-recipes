@@ -1,6 +1,8 @@
 
 Algorithm ported from https://github.com/zatherz/NoitaAlchemy and https://github.com/SaphireLattice/noita_unicorn
 
+Edited to be faster: https://quietsamurai98.github.io/noita-recipes/seeds.html
+
 #### Checking a specific seed
 
 ```typescript
